@@ -32,6 +32,12 @@ public class day1 {
 	{
 		System.out.println("bye");
 	}
+	@Test
+	public void ThirdTest()
+	{
+		System.out.println("bye");
+	}
+	
 
 
 
