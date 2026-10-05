@@ -47,6 +47,7 @@ public class day1 {
 	public void FifthTest()
 	{
 		System.out.println("bye");
+		int a=0;
 	}
 	
 
