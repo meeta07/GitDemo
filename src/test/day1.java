@@ -38,6 +38,12 @@ public class day1 {
 		System.out.println("bye");
 	}
 	
+	@Test
+	public void FourthTest()
+	{
+		System.out.println("bye");
+	}
+	
 
 
 
