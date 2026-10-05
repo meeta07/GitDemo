@@ -43,6 +43,11 @@ public class day1 {
 	{
 		System.out.println("bye");
 	}
+	@Test
+	public void FifthTest()
+	{
+		System.out.println("bye");
+	}
 	
 
 
